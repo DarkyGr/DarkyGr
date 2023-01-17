@@ -56,4 +56,4 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DarkyGr&theme=dark&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DarkyGr&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
