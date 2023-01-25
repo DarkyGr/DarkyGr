@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/SJle9EuvPEb16/giphy.gif" width="200" />
     <h1 align="center">Hi! 👋 I'm Guillermo Riaño...</h1>
-    <h3 align="center">A fan of video games. Learn and work on game, software and web development. </h3>
+    <h3 align="center">A fan of video games. Learn and work on video game, software and web development. </h3>
 </div>
 
 <div align="center"> 
