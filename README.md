@@ -14,7 +14,7 @@
 
 - 📝 Computer Systems Engineer - Technological Institute of Oaxaca (ITO)
 
-- 🌱 I’m currently learning **C#, C++, Unreal Engine and Blender**
+- 🌱 I’m currently learning **C#, C++, Unreal Engine, Blender, Asp.Net and .Net**
 
 - 🚀 A passionate about geek culture and learning what's new about development and technology.
 
