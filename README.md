@@ -4,10 +4,11 @@
     <h3 align="center">A fan of video games. Learn and work on game, software and web development. </h3>
 </div>
 
-<div align="center"> 
-    <a href="https://www.instagram.com/guille_dark/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div align="center">
+    <a href = "https://resume.io/r/azqEVNw2e"><img src="https://img.shields.io/badge/CV-8A2BE2?style=for-the-badge&logo=readdotcv" target="_blank"></a>
     <a href = "https://www.linkedin.com/in/guillermo-ria%C3%B1o/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:guilledark17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:guilledark17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
+    <a href="https://www.instagram.com/guille_dark/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 ### 👨‍💻 About Me :
