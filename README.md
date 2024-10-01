@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/SJle9EuvPEb16/giphy.gif" width="200" />
     <h1 align="center">Hi! 👋 I'm Guillermo Riaño...</h1>
-    <h3 align="center">A fan of video games. Learn and work on game, software and web development. </h3>
+    <h3 align="center">A fan of video games. Learn and work on web, software and game development. </h3>
 </div>
 
 <div align="center">
@@ -13,9 +13,9 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 Computer Systems Engineer - Technological Institute of Oaxaca (ITO)
+- 🎓 Computer Systems Engineer - Technological Institute of Oaxaca (ITO)
 
-- 🌱 I’m currently learning **C#, Asp.Net, .Net, C++, Unreal Engine and Blender**
+- 💻 I’m **.NET Developer / Project Leader** - **C#, Asp.Net, .Net,** and learning **Unreal Engine, Unity and Blender**
 
 - 🚀 A passionate about geek culture and learning what's new about development and technology.
 
@@ -69,7 +69,7 @@
         <img src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" **alt="Blender" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="After Effects"  alt="AE" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop"  alt="Photoshop" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop"  alt="Photoshop" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
     </div>
 </div>
