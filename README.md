@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me :
 
-- 🎓 Computer Systems Engineer - Technological Institute of Oaxaca (ITO)
+- 🎓 Computer Systems Engineer - Technological Institute of Oaxaca (ITO) - 🇲🇽
 
 - 💻 I’m **.NET Developer / Project Leader** - **C#, Asp.Net, .Net,** and learning **Unreal Engine, Unity and Blender**
 
